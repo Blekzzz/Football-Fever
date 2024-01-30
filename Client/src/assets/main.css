@@ -1,0 +1,20 @@
+body {
+  /* max-width: 1280px; */
+  /* padding: 2rem; */
+  font-weight: normal;
+  padding-top: 10%;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  background-color: #EEEEEE;
+  /* background-color: #4E4FEB; */
+}
+
+::selection {
+  background: #4E4FEB;
+  /* background: black; */
+  color: whitesmoke;
+  }
+  
+  select:focus {
+    /* background-color: #fe010f; */
+    border: 3px solid #fe010f;
+  }
